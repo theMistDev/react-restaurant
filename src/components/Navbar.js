@@ -4,12 +4,12 @@ import '../App.css';
 
 const Navbar = () => {
   return (
-    <nav className="navbar">
-        <p className="bizName">
-          <span>SideHustle</span> Foods
-        </p>
+    <nav className="navbar py-4 shadow-md sticky top-0 w-full  ">
+      <p className="bizName">
+        <span>SideHustle</span> Foods
+      </p>
 
-      <ul>
+      <ul text-2xl>
         <li>
           <Link className="link" to="/">
             Home
