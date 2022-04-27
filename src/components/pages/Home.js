@@ -5,7 +5,7 @@ const Home = () => {
   return (
     <main className="homeHero text-white flex flex-col justify-around items-center py-16">
       <div className=" p-3 bg-gray-700/50 shadow-2xl shadow-blue-300/50">
-        <h1 className="text-7xl font-bold ">Welcome to SH Foods</h1>
+        <h1 className="text-7xl font-bold ">Welcome to COOL-BITE FOODS</h1>
       </div>
       <h3 className="text-3xl">
         Order your food online and get it delivered to your door.
