@@ -8,5 +8,6 @@ const Contact = () => {
       <PageTitle title="Contact Us" />
     </main>
   );
+
 };
 export default Contact;
