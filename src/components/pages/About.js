@@ -7,7 +7,7 @@ const About = () => {
     <main>
       <PageTitle title="About Us" />
 
-      <div className="md:grid grid-cols-2 max-h-screen">
+      <div className="md:grid grid-cols-2">
         <div className="col-span-1 px-6 py-3 flex flex-col justify-around h-[80vh]">
           <h3 className="text-2xl font-bold py-3">
             A clean Kitchen does wonders.

@@ -3,7 +3,7 @@ import Button from './Button';
 
 function ProductCard(props) {
   return (
-    <div className="flex flex-col border-2 w-[17rem] h-[26rem] m-3 shadow-xl">
+    <div className="flex flex-col border-2 md:w-[17rem] w-[25rem] h-[26rem] m-3 shadow-xl">
       <div className=" h-1/2 ">
         <img className=" object-cover " src={props.picture} alt="product" />
       </div>

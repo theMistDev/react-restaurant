@@ -4,7 +4,7 @@ import '../App.css';
 
 const Navbar = () => {
   return (
-    <nav className="navbar py-4 shadow-md sticky top-0 w-full  ">
+    <nav className="navbar py-4 shadow-md sticky top-0 w-full px-3 ">
       <p className="bizName text-3xl">
         <span>Cool-Bite</span> Foods
       </p>

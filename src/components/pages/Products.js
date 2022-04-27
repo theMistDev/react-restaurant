@@ -6,7 +6,7 @@ const Products = () => {
     {
       picture:
         'https://images.unsplash.com/photo-1546069901-ba9599a7e63c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8Zm9vZHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60',
-      price: '5,000',
+      price: '1,500',
       title: 'Veggies and Egg',
       description:
         'Enjoy our healthy veggie and egg combo. You can only get this from us.',
@@ -14,7 +14,7 @@ const Products = () => {
     {
       picture:
         'https://images.unsplash.com/photo-1496412705862-e0088f16f791?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDR8fGZvb2R8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60',
-      price: '5,000',
+      price: '3,000',
       title: 'Strawberry and Biscuits',
       description:
         'We have a special strawberry and biscuit combo. Looks simple but good. ',
@@ -22,7 +22,7 @@ const Products = () => {
     {
       picture:
         'https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8Zm9vZHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60',
-      price: '5,000',
+      price: '7,000',
       title: 'Pizza',
       description:
         'Our Pizza has levels. Fully homemade and fresh. Best tasting pizza in the country',
@@ -38,7 +38,7 @@ const Products = () => {
     {
       picture:
         'https://images.unsplash.com/photo-1496412705862-e0088f16f791?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDR8fGZvb2R8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60',
-      price: '5,000',
+      price: '4,000',
       title: 'Strawberry and Biscuits',
       description:
         'We have a special strawberry and biscuit combo. Looks simple but good. ',
@@ -46,7 +46,7 @@ const Products = () => {
     {
       picture:
         'https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8Zm9vZHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60',
-      price: '5,000',
+      price: '8,000',
       title: 'Pizza',
       description:
         'Our Pizza has levels. Fully homemade and fresh. Best tasting pizza in the country',
@@ -54,7 +54,7 @@ const Products = () => {
     {
       picture:
         'https://images.unsplash.com/photo-1546069901-ba9599a7e63c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8Zm9vZHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60',
-      price: '5,000',
+      price: '2,000',
       title: 'Veggies and Egg',
       description:
         'Enjoy our healthy veggie and egg combo. You can only get this from us.',
@@ -62,7 +62,7 @@ const Products = () => {
     {
       picture:
         'https://images.unsplash.com/photo-1496412705862-e0088f16f791?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDR8fGZvb2R8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60',
-      price: '5,000',
+      price: '6,000',
       title: 'Strawberry and Biscuits',
       description:
         'We have a special strawberry and biscuit combo. Looks simple but good. ',
@@ -70,7 +70,7 @@ const Products = () => {
     {
       picture:
         'https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8Zm9vZHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60',
-      price: '5,000',
+      price: '9,000',
       title: 'Pizza',
       description:
         'Our Pizza has levels. Fully homemade and fresh. Best tasting pizza in the  country',
