@@ -50,6 +50,7 @@ nav {
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
+
 }
 
 li {
@@ -62,7 +63,7 @@ li {
   text-decoration: none;
   font: bold;
   color: rgb(56, 9, 9);
-  font-size: 16px;
+
 }
 
 main {
@@ -70,7 +71,7 @@ main {
 }
 
 .bizName {
-  font-size: 20px;
+  font-size: 30px;
   font-weight: bold;
   color: #0d6178;
 }
@@ -86,4 +87,22 @@ footer {
   position: bottom;
   width: 100%;
   text-align: center;
+}
+
+.homeHero {
+  background: linear-gradient(
+      to bottom,
+      rgba(133, 13, 13, 0),
+      rgba(0, 0, 0, 100)
+    ),
+    url('https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cmVzdGF1cmFudHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=800&q=60');
+
+  min-height: 90vh;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+*{
+  font-family: 'Roboto Condensed', sans-serif;
 }

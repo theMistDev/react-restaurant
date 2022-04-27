@@ -1,9 +1,11 @@
 import React from 'react';
+import PageTitle from '../PageTitle';
+
 
 const Contact = () => {
   return (
     <main>
-      <h1>Contact</h1>
+      <PageTitle title="Contact Us" />
     </main>
   );
 };
