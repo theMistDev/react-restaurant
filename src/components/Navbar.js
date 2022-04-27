@@ -5,8 +5,8 @@ import '../App.css';
 const Navbar = () => {
   return (
     <nav className="navbar py-4 shadow-md sticky top-0 w-full  ">
-      <p className="bizName">
-        <span>SideHustle</span> Foods
+      <p className="bizName text-3xl">
+        <span>Cool-Bite</span> Foods
       </p>
 
       <ul text-2xl>

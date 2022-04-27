@@ -71,7 +71,6 @@ main {
 }
 
 .bizName {
-  font-size: 30px;
   font-weight: bold;
   color: #0d6178;
 }
@@ -80,7 +79,7 @@ main {
   color: rgb(3, 78, 3);
 }
 
-footer {
+.footer {
   background-color: rgb(16, 14, 14);
   padding-bottom: 16px;
   color: white;
