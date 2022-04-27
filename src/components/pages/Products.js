@@ -92,7 +92,7 @@ const Products = () => {
   return (
     <main>
       <PageTitle title="Products" />
-      <div className="flex flex-row flex-wrap ">{productCardItems}</div>
+      <div className="flex flex-row flex-wrap items-center justify-around">{productCardItems}</div>
     </main>
   );
 };
