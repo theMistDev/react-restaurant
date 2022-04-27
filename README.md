@@ -1,8 +1,6 @@
-# Building a Website using React.
-# Cool-Bite Restaurant
-# Hosted on Vercel
+# Building a Website using React. Cool-Bite Restaurant.
 
-https://coolbite.vercel.app
+Hosted on Vercel https://coolbite.vercel.app
 
 ![alt text](public/screenshot.png)
 
